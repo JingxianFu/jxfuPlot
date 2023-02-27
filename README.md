@@ -17,9 +17,9 @@ It's a small python package to help you drawing a barplot with error bar and sig
   ![image](https://user-images.githubusercontent.com/65908422/221524862-5c06c078-c028-4b30-aa51-50a84620a3e5.png)
 
   Or you can create your `.py` file, and the try:
-  ``from draw_significance import plot_sig_bar
-  # df is Dataframe from pd.Dataframe
-  plot_sig_bar(df)``
+  ``from draw_significance import plot_sig_bar''
+  ''# df is Dataframe from pd.Dataframe''
+  ''plot_sig_bar(df)``
   Make sure your first column and second column are, respectively, tag(str) and value(float) in df, just like the format in `test_1.csv`
 
 # End of all
