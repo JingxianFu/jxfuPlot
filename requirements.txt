@@ -1,0 +1,5 @@
+matplotlib==3.6.3
+numpy==1.24.2
+pandas==1.5.3
+scipy==1.10.0
+seaborn @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_2ci8qzbdyk/croot/seaborn_1673479197351/work
