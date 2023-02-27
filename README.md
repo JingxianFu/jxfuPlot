@@ -8,7 +8,7 @@ It's a small python package to help you drawing a barplot with error bar and sig
 
 # Tutorials
 ## Install requirements
-  Firstly, you should make sure your evironment is required for requirements.txt. If you don't know whether you have the evironment, you can try this code in Terminal or CMD.
+  Firstly, you should make sure your evironment is required for `requirements.txt`. If you don't know whether you have the evironment, you can try this code in Terminal or CMD.
   ```
   pip install -r requirements.txt
   ```
